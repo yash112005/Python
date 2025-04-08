@@ -1,0 +1,5 @@
+a + b        a.__add__(b)
+# a - b        a.__sub__(b)
+# a / b        a.__truediv__(b)
+# a * b        a.__mul__(b)
+# a % b        a.__mod__(b)
